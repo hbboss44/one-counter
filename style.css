@@ -6,7 +6,7 @@
 main{
     margin: 2% auto;
     width: 30%;
-    background-image: url(/image/istockphoto-1365590841-612x612.jpg);
+    background-image: url(image/istockphoto-1365590841-612x612.jpg);
     background-repeat: no-repeat;
     border: 2px solid white;
     padding: 40px 0px;
@@ -15,7 +15,7 @@ main{
     text-align: center;
 }
 body{
-  background-image: url(/image/istockphoto-1365590841-612x612.jpg);  
+  background-image: url(image/istockphoto-1365590841-612x612.jpg);  
 }
 h1{
     text-align: center;
